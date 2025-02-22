@@ -5,8 +5,9 @@
   <a href="https://huggingface.co/datasets/svadvcx/HighMath"> 🤗 Huggingface</a> | 
   <a href="https://github.com/DeepShareAI"> 📭 Contact</a> 
 </p>
-
-<img width="511" alt="7619abaccd7b4cdb73b79d0a2e148cd" src="https://github.com/user-attachments/assets/40d76ed0-f600-49bb-ab66-82b68eecbf16" />
+<div align="center">
+  <img width="511" alt="图片描述" src="https://github.com/user-attachments/assets/40d76ed0-f600-49bb-ab66-82b68eecbf16"  />
+</div>
 
 ### :mountain: Overview 
 * This repository shares the code and dataset of our latest work on multilingual reasoning. In this work, we present a novel  construction of dataset which performs targeted language alignment for best use of the LLMs English reasoning abilities.
