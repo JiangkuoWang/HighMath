@@ -6,7 +6,7 @@
   <a href="https://github.com/DeepShareAI"> 📭 Contact</a> 
 </p>
 
-![alt text](picture\highmath.png)
+![alt text](picture/highmath.png)
 
 ### :mountain: Overview 
 * This repository shares the code and dataset of our latest work on multilingual reasoning. In this work, we present a novel  construction of dataset which performs targeted language alignment for best use of the LLMs English reasoning abilities.
