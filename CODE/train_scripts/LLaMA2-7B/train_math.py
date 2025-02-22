@@ -1,9 +1,3 @@
-"""
-train_math.py是使用了量化和lora的版本。
-这个脚本是全参微调的版本
-注意启动此脚本的时候将bf16设置为True
-"""
-
 import os
 import copy
 import logging
