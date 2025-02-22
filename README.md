@@ -12,7 +12,7 @@
 * This repository shares the code and dataset of our latest work on multilingual reasoning. In this work, we present a novel  construction of dataset which performs targeted language alignment for best use of the LLMs English reasoning abilities.
 * Utilizing this dataset, you can finetune open-source LLMs into strong multilingual reasoning systems. For example, our fine-tuned LLaMA2-7B achieves superior multilingual performance, significantly outperforming baseline models of equivalent size.
 * Overall, our method effectively reduces the performance disparity of LLMs across English and non-English languages, showing a new paradigm to unlock LLM’s capabilities to accompolish multilingual tasks.
-* Please note that the core contribution of our work is to provide an idea for constructing datasets and to open-source the HighMath dataset. The code in the repository is just an example of how to use it, so please adjust the usage according to your actual situation.
+* Please note that the core contribution of our work is to provide an idea for constructing datasets and to open-source the [HighMath dataset](https://huggingface.co/datasets/svadvcx/HighMath). The code in the repository is just an example of how to use it, so please adjust the usage according to your actual situation.
 
 
 ### :chart_with_upwards_trend: Benchmarks
